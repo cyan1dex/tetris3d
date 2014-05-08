@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130/trunk/Tetris3D/TetrisScreens
+END
+ClassicTetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/trunk/Tetris3D/TetrisScreens/ClassicTetrisScreen.cs
+END
+Challenge1TetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/Challenge1TetrisScreen.cs
+END
+Challenge2TetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/Challenge2TetrisScreen.cs
+END
+Challenge3TetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/Challenge3TetrisScreen.cs
+END
+Challenge4TetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/Challenge4TetrisScreen.cs
+END
+MarathonTetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/MarathonTetrisScreen.cs
+END
+TimeTrialScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127/trunk/Tetris3D/TetrisScreens/TimeTrialScreen.cs
+END
+TetrisScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/123/trunk/Tetris3D/TetrisScreens/TetrisScreen.cs
+END

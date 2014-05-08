@@ -1,0 +1,12 @@
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\bin\x86\Debug\XELibrary.dll
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\bin\x86\Debug\XELibrary.pdb
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\obj\x86\Debug\XELibrary.dll
+C:\Users\backtrack\Desktop\tetris3D\XELibrary\XELibrary\obj\x86\Debug\XELibrary.pdb
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\bin\x86\Debug\XELibrary.dll
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\bin\x86\Debug\XELibrary.pdb
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\obj\x86\Debug\XELibrary.dll
+C:\Users\backtrack\Desktop\Programs\tetris3D\XELibrary\XELibrary\obj\x86\Debug\XELibrary.pdb

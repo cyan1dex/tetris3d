@@ -1,0 +1,2 @@
+C:\Users\backtrack\Desktop\tetris3D\Tetris3D\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\backtrack\Desktop\Programs\tetris3D\Tetris3D\Content\obj\x86\Debug\ResolveAssemblyReference.cache

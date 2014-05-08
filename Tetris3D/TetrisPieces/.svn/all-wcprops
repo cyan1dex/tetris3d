@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/125/trunk/Tetris3D/TetrisPieces
+END
+IPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/IPiece.cs
+END
+Zpiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/Zpiece.cs
+END
+JPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125/trunk/Tetris3D/TetrisPieces/JPiece.cs
+END
+TetrisPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/TetrisPiece.cs
+END
+LPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125/trunk/Tetris3D/TetrisPieces/LPiece.cs
+END
+OPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/OPiece.cs
+END
+Spiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/Spiece.cs
+END
+TPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/Tetris3D/TetrisPieces/TPiece.cs
+END
